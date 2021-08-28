@@ -1,0 +1,136 @@
+.other {
+  margin-left: 350px;
+}
+.suja {
+  width: 100%;
+
+  background-image: url(https://images.unsplash.com/photo-1526733996592-f6bc41f8e020?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHRyYXZlbGxpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60);
+  background-size: cover;
+}
+.tec {
+  position: relative;
+  top: 150px;
+  left: 20px;
+}
+.ff {
+  justify-content: center;
+}
+.box {
+  justify-content: center !important;
+  margin-top: 160px;
+  margin-bottom: 30px;
+
+  width: 70%;
+  border: 1px solid red;
+  border-radius: 5px 15px 5px 20px;
+}
+.rate {
+  border: 1px solid black;
+  width: 100%;
+}
+.new {
+  margin-left: 40%;
+  font-size: 50px;
+}
+.cardsestem {
+  margin-top: 90px;
+}
+.beta {
+  height: 220px;
+}
+/* vloge stard */
+.contan {
+  background-image: url(https://images.unsplash.com/photo-1438786657495-640937046d18?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGlsbHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80);
+  height: 420px;
+  background-size: cover;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.contant {
+  background-image: url(https://c8.alamy.com/comp/T4EA50/an-airplan-wing-T4EA50.jpg);
+  height: 200px;
+  background-size: cover;
+  border: 1px black;
+  border-radius: 10px;
+}
+.contants {
+  background-image: url(https://st2.depositphotos.com/28608612/47326/i/1600/depositphotos_473268004-stock-photo-sightseeing-tour-memorable-historical-places.jpg);
+  height: 200px;
+  background-size: cover;
+  border: 1px black;
+  border-radius: 10px;
+}
+.img1 {
+  width: 100%;
+  height: 500px;
+  background-color: #42455a;
+}
+.name {
+  height: 200px;
+  width: 202px;
+  background-color: brown;
+  border: 1px solid rgb(20, 13, 13);
+  border-radius: 50%;
+  position: relative;
+  top: -170px;
+  left: 94px;
+  background-image: url(https://scontent.fdac17-1.fna.fbcdn.net/v/t1.6435-9/139114842_877802746406645_1434704026975098123_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEnq0UxIRnFdrPHdyUx5Jxy6J7SRmlrjunontJGaWuO6SKy432Np_9mLMGr52SbyADUujYxSLo-7WWYLhcaSWBE&_nc_ohc=lfPtfXw2LrQAX85eWhf&_nc_ht=scontent.fdac17-1.fna&oh=617e782713a0dfdb178cd6b8f4f46e09&oe=6148D2E4);
+  background-size: cover;
+}
+.ac {
+  position: relative;
+  top: -125px;
+}
+.container {
+  background-color: #ffffff;
+  padding: 80px 0;
+  min-height: 32vh;
+}
+.testi-img .img-box {
+  max-width: 360px;
+  margin: auto;
+  text-align: center;
+  position: relative;
+}
+.testi-img .circle {
+  height: 320px;
+  width: 323px;
+  background-color: #fb9c9a;
+  position: absolute;
+  border-radius: 50%;
+  left: 2px;
+  bottom: 3px;
+}
+.taxti {
+  position: relative;
+  top: 70px;
+}
+.testi-img .img-box-inner {
+  position: relative;
+  border-radius: 0 0 180px 180px;
+  overflow: hidden;
+}
+.testi-img .img-box-inner img {
+  max-width: 310px;
+}
+.icon i {
+  font-size: 4rem;
+  margin: 121px 0 0 100px;
+}
+.ton p {
+  margin-top: 120px;
+}
+.map-container {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  margin-top: -46px;
+}
+.map-container iframe {
+  left: 0;
+  top: 0;
+  height: 85%;
+  width: 100%;
+  position: absolute;
+}
